@@ -1,0 +1,48 @@
+.main_banner{
+    padding: 9px 0 24px 0;
+    background: #F0EFEB;
+}
+.main_banner .container{
+    max-width: 1088px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.first_article{
+    max-width: 544px;
+    margin: 90px 0 90px 0;
+}
+.main_banner h1{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    color: #000000;
+    margin-bottom: 42px;
+}
+.main_banner p{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-bottom: 26px;
+}
+.main_banner a{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    color: #FFFFFF;
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 100px;
+    padding: 7px 23px 9px 23px;
+}
+.main_banner .main_image{
+    position: relative;
+    left: 30px;
+}
