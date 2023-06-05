@@ -46,3 +46,82 @@
     position: relative;
     left: 30px;
 }
+.best_sellers{
+    padding: 60px 0 240px 0;
+}
+.best_sellers .container{
+    max-width: 1064px;
+    margin: auto;
+    text-align: center
+}
+.best_sellers h2{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;
+    max-width: 692px;
+    margin: 0 auto 27px;
+}
+.best_sellers .subtext{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+    max-width: 632px;
+    margin: auto;
+}
+.best_sellers .subtext_margin{
+    margin-top: 47px;
+    margin-bottom: 88px;
+}
+.best_sellers h2:last-of-type{
+    margin-bottom: 52px;
+}
+.best_sellers_carousel{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.best_sellers_carousel img{
+    margin-bottom: 27px;
+    height: 425px;
+    max-width: 310px;
+}
+.best_sellers_carousel .card_name{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    margin: auto;
+    margin-bottom: 17px;
+    max-width: 155px;
+}
+.best_sellers_carousel .card_price{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.best_sellers_carousel .atc_link{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #000000;
+}
