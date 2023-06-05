@@ -88,6 +88,9 @@
     justify-content: space-between;
     align-items: center;
 }
+.best_sellers_carousel .card_img{
+    display: inline-block;
+}
 .best_sellers_carousel img{
     margin-bottom: 27px;
     height: 425px;
