@@ -128,3 +128,14 @@
     text-decoration-line: underline;
     color: #000000;
 }
+.owl-dots .owl-dot span{
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background: #D6D6D6;
+    margin: 5px 10px;
+}
+.owl-dots .owl-dot.active span{
+    background: black;
+}
